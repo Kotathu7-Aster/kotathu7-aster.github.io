@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+<channel rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>Kotathu7's Homepage</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>Kotathu7's Homepage</description>
+<dc:language>ja</dc:language>
+<dc:date>2024-04-18T15:23:49+09:00</dc:date>
+
+<items>
+<rdf:Seq>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/easter/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/easter/index.html"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/easter/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/easter/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/easter/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/portier/index.html"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/auge/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/auge/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/bougie/index.html"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/html/tubuyaki.html"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/auge/index.html"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/html/link.html"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/download/auge/index.html"/>
+<rdf:li rdf:resource="http://hp.vector.co.jp/authors/VA035038/"/>
+</rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>リンク集を見直しました</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>リンク集を見直しました。インターネットやプログラミングにおいてセキュリティ向上が具体的な動きになってきました。スパムメール対策やパスワードレス認証などの動きのなかで、開発者も利用者もアプリやオンラインサービスへの向き合い方に急激な変容を迫られています。また、本サイトのオンラインソフトを掲載いただいたこともあるDOS/V POWER REPORTが2024年冬号で休刊となるなど、時代の変化を象徴する出来事もありました。授業や入試に情報教育が標準装備された世代が作るインターネット世界に期待しながら、それに付いていけるか心配している今日この頃です。</description>
+<dc:date>2024-04-18T15:23:21+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>Easterの最新版(Ver 0.97)を公開しました。</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>本日Easter Ver.0.97 を公開しました。Windows 10 / 11 にてダークモード設定時に機器選択画面を暗い配色で表示する機能を追加するとともに、安全性を向上させる修正を行いました。Easterの初版公開から約12年半が経過し、PCの拡張方法やUSBの実装が大きく変わったことを改めて実感しています。幅広いWindowsバージョンや機器に対応できるよう心がけていますが、PCMCIAについては、最新のWindowsが動作する環境が用意できないため、Windows 7(32bit)上での検証にとどまっています。ご了承ください。マスクの着脱が個人の判断になり、アフターコロナへの動きが本格化してきました。皆様のご健康をお祈り申し上げます。</description>
+<dc:date>2023-03-13T18:33:47+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>本サイトは22年目に突入しています。</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>本サイトは22年目に突入しています。アクセスカウンターも10万2766回（2022年3月23日18:30現在）を表示しており、多くの方に支えられていることを改めて実感しています。最後の更新から5年以上が経過し、特に2020年から続く新型コロナウイルス感染症の拡大を受けて、ICT 技術を活用したリモート会議が一般的なものになるなど、急激な社会の変化が生じています。IoT、ビッグデータ解析といったプログラミングの潮流から、Python や Kotlin が隆盛を誇っています。また、Android アプリの実行や、WSL2によるLinux環境の構築をサポートする Windows 11 が発売され、Win32 API を用いたネイティブアプリの個人開発はますます旧世代の営みとなりました。30年近くにわたりバイナリ互換を保つ Windows と、20年以上にわたりホームページサービスを継続している Vector の懐の深さに頼ってばかりですが、今後も何らかの形でホームページでのプログラム公開を維持していきたいと思いを新たにしています。</description>
+<dc:date>2022-03-23T20:01:16+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>Easter及びPortierの最新版を公開しました。</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>Easter及びPortierの最新版を公開しました。Easter (Ver 0.96)については、不具合の修正に加え、新たに Windows 8.1 / 10 環境での Per-Monitor DPI に対応しました。Portier (Ver 2.21)は UAC の動作や 64bit 環境への対応を中心に、最新の Windows 10 までの環境での互換性を高めました。２つのソフトウェアを組み合わせれば、内蔵型カードリーダーを必要な時のみ認識させて使用する使い方も可能となります（関連資料はこちら：PDFファイル）。Portierは初版公開から10年を超え、Easterは6年を超えました。どちらのソフトもユーザー様に大切に使っていただき、うれしく思っています。</description>
+<dc:date>2017-01-23T20:00:27+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>久しぶりの更新</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>リンク集を修正しました。当サイトがオープンから約5年間使用していたOCN PageONサービスをはじめ、各社のホームページ公開サービスの終了に伴い、サイトリストが寂しくなってきました。各種の環境の変化を身をもって感じる今日この頃です。主なソフトウェアのWindows10対応状況は以下の通りです。Easterについては、Ver 0.95が問題なく動作します。Portierについては、設定プログラム（porconfig.exe, Ver 2.2）を64bit環境で使用時、タイトルバーの[×](閉じる)ボタンをクリックして終了するとランタイムエラーが表示される場合があります。エラーとなってもシステムに影響はありません。当面、ウィンドウ下部の[終了]ボタンを使用してください。今後もご支援のほどお願い申し上げます。</description>
+<dc:date>2017-01-14T13:42:11+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>リンク集の修正</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>久しぶりの更新となりました。リンク集を修正しています。Windows 10 リリースが秒読み段階となり、タブレット・MVNOの隆盛とともに情報機器のプラットフォームも激変しています。USBについても、新規格対応PCが続々と出てきていますが、EasterやPortierはこれまで通り動くようサポートいたします。当サイトは間もなく15周年を迎えます。これまでのご支援に感謝いたします。</description>
+<dc:date>2015-06-27T13:41:35+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>Easter 0.95 公開！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>Easterの最新バージョンである、Ver. 0.95を公開しました。Windows8/8.1に正式対応したほか、これまで懸案だった起動失敗の不具合についても解消されています。</description>
+<dc:date>2013-12-07T23:03:31+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>本年もよろしくお願いします。Easter 0.93 不具合について</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>本年も、Kotathu7's Homepageをよろしくお願いします。7月に公開されたEaster Ver. 0.93 が動作しない環境がある点について告知させていただきます。Easter 0.93 について、ネット上の報告ならびにEメールによる作者への問い合わせにおいて、一部の環境で以下のようなエラーメッセージが表示され、起動できないという報告がありました。＃Error 1 --&gt;内部エラーが発生しました(1)この問題は、作者環境では再現することができませんでしたので、この問題に遭遇された方の情報を求めます。 </description>
+<dc:date>2012-01-01T14:03:12+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/easter/">
+<title>Easter 0.93 公開！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/easter/</link>
+<description>Easterの最新バージョンである、Ver. 0.93を公開しました。同一の親デバイスに属する機器をまとめて取り扱うよう修正しました。また、メモリ管理の見直しにより、メモリ使用量を減らしています。 </description>
+<dc:date>2011-07-10T22:26:49+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>Easter を多方面で紹介いただいています。</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>「Easter」を多方面でご紹介いただいています。誠にありがとうございます。・ベクター新着ソフトウェアレビュー 2011年6月「よく読まれた記事」総合9位・週刊アスキー  2011年7月26日号・Mr.PC 2011年8月号・iP! 2011年8月号 第一特集内 </description>
+<dc:date>2011-07-09T12:17:08+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>「Easter」が窓の杜ライブラリに収録決定しました。</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>「Easter」が２月８日より窓の杜ライブラリに収録されます。また、インフォレスト社、晋遊舎はじめ多数の雑誌媒体での紹介、Webでの紹介をいただき、光栄に思っております。ソフトウェアをご利用いただいている皆様、誠にありがとうございます。</description>
+<dc:date>2011-02-07T02:37:56+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>Poriter&amp;Easter掲載誌発売！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>今年もあと１か月ほどとなりました。あっという間の１年間でしたが、「Easter」、「Portier」の更新をはじめとして、多くの方の目に触れる機会も多く、実り多き１年だったと思います。Portierは晋遊舎『iP!』に、Easterは晋遊舎『Mr.PC』にそれぞれ掲載されます。またEasterが窓の杜の「今日のお気に入り」に掲載されております。http://www.forest.impress.co.jp/docs/serial/okiniiri/20101027_402536.htmlその他多くのサイトでも紹介をいただいております。ご紹介いただいた皆様、そしてご愛用いただいている皆様、ありがとうございます。</description>
+<dc:date>2010-11-21T18:41:39+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/easter/index.html">
+<title>Easter 0.92 公開！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/easter/index.html</link>
+<description>USB機器復活ソフト「Easter」を更新しました。また、フリーソフト100様はじめ、多くのサイトで紹介いただいております。雑誌掲載も決定いたしました。ご愛用に感謝申し上げます。</description>
+<dc:date>2010-10-22T21:35:22+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/easter/">
+<title>「Easter」雑誌掲載決定！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/easter/</link>
+<description>晋遊舎「Mr.PC」への掲載が内定いたしました。</description>
+<dc:date>2010-10-20T23:18:22+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>おかげさまで10周年を迎えることができました。</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>3日連続で更新ができ、うれしい限りです。本日、Kotathu7's Homepageは10周年を迎えることができました。改めて10年を振り返ると、長いようで短かったというのが正直な感想です。10年間で外観を３度、完全に変更し、移転も行われました。10年間のアクセスは、約5万7800。こんなにアクセスをいただけるとは、10年前の10月20日には想像もつきませんでした。改めてこの数字をかみしめ、これまでのご愛顧に感謝をしつつ、さらなる発展のために努力してまいります。今後ともよろしくお願いします。</description>
+<dc:date>2010-10-20T23:17:12+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/easter/">
+<title>Easter 0.91 公開！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/easter/</link>
+<description>USB機器復活ソフト「Easter」をWindows 2000に対応させました。</description>
+<dc:date>2010-10-19T22:07:45+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/easter/">
+<title>USB機器復活ソフト「Easter」、公開！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/easter/</link>
+<description>内蔵のカードリーダーを取り外し状態にしてしまい、「しまった」と思われた方はおられませんか？他にも、棚に据え付けてある大型の外付けハードディスクなど「ケーブルを抜いて挿す」という動きが難しかったり、面倒だったりする場面は、案外身近にあるものです。取り外し状態の機器をもとに戻すことができたら…。そんな願いにこたえるソフトができました。USB機器復活ソフト「Easter」、公開いたします。</description>
+<dc:date>2010-10-18T03:39:03+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/portier/index.html">
+<title>Portier Ver. 2.2 公開！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/portier/index.html</link>
+<description>おかげさまで、私の活動もまもなく10周年を迎えます。ここまで活動を継続できたのも、つたないソフトウェアを使っていただき、ご意見をいただいた皆様のおかげでございます。Portierは、2006年の公開以来、約5万件のダウンロードをいただきました。このたび、活動10周年を記念して、約３年ぶりの正式版リリースを行います。これからも、Kotathu7、そしてソフトウェア「Portier」をご愛顧のほど、よろしくお願いします。</description>
+<dc:date>2010-10-15T10:43:20+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>5万5千ヒット達成！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>約1年ぶりの更新となってしまいました。Windows 7への対応など、ソフト新規開発へのハードルがどんどん上がっているように思う今日この頃です。5万5千ヒットを達成しました。ありがとうございます。</description>
+<dc:date>2010-06-27T22:21:26+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>まもなく5万ヒット達成！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>Vectorの通知に基づき、ダウンロードのリンク先を変更しました。気がつけば5万ヒット目前です。いろいろとやるべきことがあってなかなか時間が取れない日々です。</description>
+<dc:date>2009-07-13T12:25:51+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>久しぶりの更新</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>久しぶりの更新となりました。最近はサーバー管理やWebプログラミングのほうの知識を伸ばしているところです。年度が変わり心機一転、こちらの方にも力を入れたいと考えています。いつの間にやら4万7千ヒットを超えました。今後ともよろしくお願いします。</description>
+<dc:date>2009-04-10T11:49:52+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/auge/">
+<title>Auge 『iP!』2008年12月号掲載</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/auge/</link>
+<description>おかげさまをもちまして、 「Auge」 が晋遊舎刊『iP!』2008年12月号に掲載されました。「Bougie」もVectorに登録され、好評をいただいています。</description>
+<dc:date>2008-11-07T21:01:49+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/auge/">
+<title>Auge Ver 1.2 公開</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/auge/</link>
+<description> 「Auge」 Ver 1.2 を公開しました。今回のバージョンは先日公開した「Bougie」の副産物という側面が強いです。1.1よりさらに実装を丁寧にしました。</description>
+<dc:date>2008-10-07T00:40:38+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/bougie/index.html">
+<title>「Bougie」公開！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/bougie/index.html</link>
+<description>FC2アクセス解析のログをダウンロードするソフト「Bougie」を公開しました。「Portier」今しばらくお待ちください。</description>
+<dc:date>2008-10-03T00:52:33+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/html/tubuyaki.html">
+<title>Portier Ver. 2.1 beta 1 公開！</title>
+<link>http://hp.vector.co.jp/authors/VA035038/html/tubuyaki.html</link>
+<description>また、「Portier」 Ver 2.1 beta 1 をひっそりと公開します。ヘルプ等ができていない状態で公開するのはいささか無理がありますので、Portierのダウンロードページには追加せず、「つぶやき」コーナーに追加しました。不具合対応等に自信のある方のみご利用ください。正式版は９月前半に公開する予定です。</description>
+<dc:date>2008-08-17T14:10:58+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/auge/index.html">
+<title>Auge Version 1.1 公開</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/auge/index.html</link>
+<description>HTTPヘッダ表示ソフト 「Auge」 Ver 1.1 を公開しました。目立った機能追加はありませんが Ver 1.0 で行きとどいていなかった面に対応しました。</description>
+<dc:date>2008-08-17T14:09:22+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/html/link.html">
+<title>リンク集追加</title>
+<link>http://hp.vector.co.jp/authors/VA035038/html/link.html</link>
+<description>リンク集に「フリーソフト100」様を追加しました。http://freesoft-100.com/実際に紹介されているソフト数はゆうに100を超えていると思われますが、ひとつひとつのソフトをよくお調べになって、丁寧に紹介しておられます。http://freesoft-100.com/usb/stop.htmlにて「Portier」を紹介していただいています。当サイトのアクセス数が3万9000ヒットを突破しました。皆様のご支援に感謝します。</description>
+<dc:date>2008-08-04T23:29:36+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>久しぶりの更新です</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>細かな修正を行いました。春から先日までいろいろな言語に触れました。HSPやCだけでなく、PerlやJavaScript、あまりくわしく学んでいなかったCSS…と知識の幅が広がった気がします。Portierの新バージョンのコーディングはある程度終わっているのですが、公開できる形にする時間が取れない状況です。</description>
+<dc:date>2008-07-05T21:57:45+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/download/auge/index.html">
+<title>Auge 公開</title>
+<link>http://hp.vector.co.jp/authors/VA035038/download/auge/index.html</link>
+<description>「ダウンロード」コーナーに新しく「Auge」を追加しました。HTTPリクエストヘッダ・レスポンスヘッダを確認できるソフトです。リファラ・ユーザーエージェント文字列のカスタマイズが可能となっています。</description>
+<dc:date>2008-04-27T12:44:32+09:00</dc:date>
+</item>
+
+<item rdf:about="http://hp.vector.co.jp/authors/VA035038/">
+<title>はやくも２月</title>
+<link>http://hp.vector.co.jp/authors/VA035038/</link>
+<description>新バージョン鋭意製作中…といいたいところですが、時間が取れません。誠に勝手ながら、よりよいページ作りのためアクセス解析を始めました。ご協力お願いします。</description>
+<dc:date>2008-02-07T16:58:40+09:00</dc:date>
+</item>
+</rdf:RDF>
+
